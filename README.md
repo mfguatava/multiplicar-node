@@ -4,3 +4,9 @@
 
 
 Miguel Guatava
+
+Ejecuta demo
+
+```
+npm install
+```
